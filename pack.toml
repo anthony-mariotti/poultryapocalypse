@@ -1,12 +1,12 @@
 name = "Poultry Apocalypse"
 author = "AMTraxTGE"
-version = "1.0.4"
+version = "1.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "46a5589e5310d28fb87f15194a45fe7e159b2ebffc4ae1e70c050f6f428bf8ed"
+hash = "da34f6977ee77203812abb219f271eac2e0c68c654f2cbffff1c24054f903a11"
 
 [versions]
 fabric = "0.16.13"
