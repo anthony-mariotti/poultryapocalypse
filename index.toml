@@ -16,8 +16,8 @@ hash = "39792a11da59cebc770f3918dd0ad53637bcbd206dc19bfa6709392bfd2d1830"
 metafile = true
 
 [[files]]
-file = "mods/balm-fabric.pw.toml"
-hash = "5650845c79a8be884eed91e2c559f262dcc2f0f789dd5770b5b84ab4c5ae033d"
+file = "mods/balm.pw.toml"
+hash = "ef031e859a6f4fc358334863d71fd87a3107924ed40ec8e380600a509886eee2"
 metafile = true
 
 [[files]]
@@ -33,11 +33,6 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "68eea01a09b45caa9db73aff2ebf6b9cbc6a4029738b5fe6568b52460109275b"
-metafile = true
-
-[[files]]
-file = "mods/bookshelf.pw.toml"
-hash = "14c987d7523f639f811eb61f2478301c86c1591c23fd2fdc28b4105c5a3d9530"
 metafile = true
 
 [[files]]
@@ -87,27 +82,27 @@ metafile = true
 
 [[files]]
 file = "mods/diagonal-fences.pw.toml"
-hash = "5d5a6e3d884253bb19c6611bb2e97ed2674a3ba6959ad8f924084455d73b89ed"
+hash = "23b3bf6d1931acd2aa6daa5409b274b0d4ec9ec659c01d11454093d8fcd1e342"
 metafile = true
 
 [[files]]
 file = "mods/diagonal-walls.pw.toml"
-hash = "02db612621d1bff57a67f3730f7bd09a5a80e1e96ae7358c897e5f5ec26e646d"
+hash = "33c41ce33262edd33832faac7b18119f356ab55352e74fc89f58c13a856cabce"
 metafile = true
 
 [[files]]
 file = "mods/diagonal-windows.pw.toml"
-hash = "94807dfb31966ac8cd351ece005ac25fd40b1de0b386afc6b168815cc1e372ba"
+hash = "2bcdcf72c50d93ef010c8895ad1588baf9181612dcbdd05a2a870ff88bc34649"
 metafile = true
 
 [[files]]
 file = "mods/durability-tooltip.pw.toml"
-hash = "319b757fcefbea557c7c17b8c33f8164277a129bdf4d537303a777e601f9e457"
+hash = "a47138a91677a89d84e5ab37da1f501f4770ab07e51ae8ce6fdd27fb2d14f026"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "fd2b924a2fc8518fe0195c8aff7cb75e6e3bb6786402117544a3f5d6a36086e9"
+hash = "60e6720aafdfa3304b086f7465917179485a3b2463230505728bd24d54113de3"
 metafile = true
 
 [[files]]
@@ -132,12 +127,12 @@ metafile = true
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
-hash = "00eaafc399810122b7522b172e12aec41f8d8b787192a78362f77e1274c21451"
+hash = "2600fb5f2efa6dffd1bcc04eea4c2646c101da4320da0c88d5616d5c2f41a439"
 metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
-hash = "5ff4bab1e8c8ec4c92dc2e2900816f47e4a8b32d1d9c523dfa608e28bd7debed"
+hash = "3df4c876a1d71c86817a276f53cef664e64e5be440157a8c5c451601e7563f3b"
 metafile = true
 
 [[files]]
@@ -217,12 +212,12 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "a922a7caa12c0f9ac8689b0d5080a881a9ef43f5cabcd2ef8d656b08239d289c"
+hash = "f55842e2485d7be3fcd497cf0e5d003a72a859bc0607c3b7d93b600b6eea4a47"
 metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "8deb4040131569c97902b40e0d81ef80330c6bb477c2ebcf5a5d987e1348eb96"
+hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
 metafile = true
 
 [[files]]
@@ -247,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "c702e025298d58a90705f502abad07bb03e1dcc22733c95e1379665aa149918e"
+hash = "8e009ac87710fbd8f5990285d36ab2b4755e932664ca1bcb9cdfac116d6e3b6d"
 metafile = true
 
 [[files]]
