@@ -1,0 +1,13 @@
+name = "Poultry Apocalypse"
+author = "AMTraxTGE"
+version = "1.0.4"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "926247230a9c9bfbfd51f2de4b9fda2ce67d48317bd1056ac4550e898043ba1a"
+
+[versions]
+fabric = "0.16.13"
+minecraft = "1.21.1"

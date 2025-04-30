@@ -1,0 +1,13 @@
+name = "Dark Paintings"
+filename = "darkpaintings-fabric-1.21.1-21.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e526b8658430e72c8d7fd88c7f67be42034ec34"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5829217
+project-id = 377281
