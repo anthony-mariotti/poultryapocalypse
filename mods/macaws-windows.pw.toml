@@ -3,11 +3,11 @@ filename = "mcw-windows-2.3.0-mc1.21.1fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "be0ba7e9e4870ea060cd279b839e2867aa597cd4"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/C7I0BCni/versions/7IXnPFd0/mcw-windows-2.3.0-mc1.21.1fabric.jar"
+hash-format = "sha512"
+hash = "c7671906b99b3fb8f5dd6156e2310b92ada4474530a709c406439da909920632bc580b9fc505b771b5ce06b0e306144baad6177cbf98368d9b7fa95c08596869"
 
 [update]
-[update.curseforge]
-file-id = 5635574
-project-id = 363569
+[update.modrinth]
+mod-id = "C7I0BCni"
+version = "7IXnPFd0"
