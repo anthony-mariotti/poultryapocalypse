@@ -291,10 +291,6 @@ hash = "1807fbe474298e2ef5bab6cf77187f01017c61166fc57c335b26d9217d8b2172"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "101cc386562bc5789c613ea235fd8cc8041e6d6b48cb15fe66a390de3fe43d40"
-
-[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
 metafile = true

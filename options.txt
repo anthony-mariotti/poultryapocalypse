@@ -1,6 +1,0 @@
-darkMojangStudiosBackground:true
-resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/FreshAnimations_v1.9.2.zip"]
-joinedFirstServer:true
-onboardAccessibility:false
-soundCategory_music:0.0
-skipMultiplayerWarning:true
