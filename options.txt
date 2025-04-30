@@ -3,3 +3,4 @@ resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_cu
 joinedFirstServer:true
 onboardAccessibility:false
 soundCategory_music:0.0
+skipMultiplayerWarning:true
