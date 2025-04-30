@@ -3,11 +3,11 @@ filename = "darkpaintings-fabric-1.21.1-21.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3e526b8658430e72c8d7fd88c7f67be42034ec34"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/lFGQ4Hnk/versions/1wfayMST/darkpaintings-fabric-1.21.1-21.1.2.jar"
+hash-format = "sha512"
+hash = "6a94327f503166625338faef13b142ddfd7535bf51da1cfc60139ec7c73cbfe3b094977ec2dbf8c6627428037529b7fde86439d9d8bc0db9620aa2d58f34428e"
 
 [update]
-[update.curseforge]
-file-id = 5829217
-project-id = 377281
+[update.modrinth]
+mod-id = "lFGQ4Hnk"
+version = "1wfayMST"

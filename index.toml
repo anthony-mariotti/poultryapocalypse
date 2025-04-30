@@ -31,6 +31,11 @@ hash = "44b602d6d9664958e0fce3fdabfd47b7def3a2fd5586b5e2417f7a5f9a2fc276"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "68eea01a09b45caa9db73aff2ebf6b9cbc6a4029738b5fe6568b52460109275b"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "14c987d7523f639f811eb61f2478301c86c1591c23fd2fdc28b4105c5a3d9530"
 metafile = true
@@ -42,17 +47,17 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "c4f294f47a114849b5510bba3da64503e7e714c6178dbe0edf5573065e5ef541"
+hash = "1ba7fcf69deeec5536f8c9e43ee4527a5871e9e5805c1801b855e5c00b25d05a"
 metafile = true
 
 [[files]]
 file = "mods/charm-of-undying.pw.toml"
-hash = "7ab8a107f4c3683b05ec7f66bf3210aa457bea2ec8b4f64a2233d033d686f2bf"
+hash = "65976f27dd6de19c602d836a0327833d3ba201ae763e248bd642370b0c8b5dad"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "bcb9fc78a271d46b8e1ff08e8261ab8161a48fea3938177573e3a40874773661"
+hash = "24828835695c3e91f506dab3bdd47e54cb31412187ab0670bbb09cfeb710994c"
 metafile = true
 
 [[files]]
@@ -62,12 +67,12 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "8924f70537405b8bc884504814f8963483268b492bcad4c6d87badde63ee69e5"
+hash = "fe84e2227c405bf9b735f01f307a01768784b9d49df82a13ecda3d3b6d198507"
 metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "b50378ddd8de5877ce51ded7616ebbf3ad0a5e18af8125a473411fbabc6c37cd"
+hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
 metafile = true
 
 [[files]]
@@ -77,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/dark-paintings.pw.toml"
-hash = "bf54f95c286bb84db4b6a259b65d13924a925eeb23249f7749393db8bcdbdcf5"
+hash = "5f51297a3548836d6229b6d11a2d20d016276d0af2b96a01f8170126d88349f9"
 metafile = true
 
 [[files]]
@@ -207,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "4ce4ea4dc03135e38a87b50ee964b6148348fef35d4708c2ac18c33eb32cce2b"
+hash = "33fd0d8f99ff36c8d1c5ee622dd57df3b35e1e0e9b7411bf2c69d2ac71e9219d"
 metafile = true
 
 [[files]]
@@ -257,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "7b5e8074a47ad6a9e453a29853bb1527906ae0ced0d714fcd386c75ef1f0f00a"
+hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
 metafile = true
 
 [[files]]
