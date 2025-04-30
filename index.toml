@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e9620b398651e418c27d9bf5e16b71b18ab19ee56aacadfe53b70057747b231d"
+hash = "8553e14ede47e7f020a8416c5a05e9fd8a764956dcbc7043f127d3dd0ce25e51"
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
