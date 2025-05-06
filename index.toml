@@ -231,6 +231,11 @@ hash = "237f61291d7f6cbfe8bafd6fc22657000adc2b8de269061eb81b6eb21d3ea5d1"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "5161b7b58b9f0765aad3aaa1a365c61491017eca4ae0552d419bd57b1c4d6509"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "972db8c2fec6fb2f3545554062d4cd19364778e30d8f079221fe0d459efa8517"
 metafile = true
@@ -258,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "e48f829771c884b5a1b33fec53172226ccd7bc80a5d97b4da879525c40901d89"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "358a4ea31ab4385e7ae0b48888adf95b2362cbf5126dcda750063c557e3eb8b1"
 metafile = true
 
 [[files]]
