@@ -101,6 +101,11 @@ hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "eecdc8127f69c74ff55fd183d1f1d7d5ef3e714d73845a239fe9e086147a67b1"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "74b82158cadd5d72b6f1c706aa7f190c4e791681472fc98735cec30acf622535"
 metafile = true
@@ -143,6 +148,16 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "60e6720aafdfa3304b086f7465917179485a3b2463230505728bd24d54113de3"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "f317dfe4336880d88d1f1fd60c8675f2a51cd9110e9dbc37307463a9c09f4b1f"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "161123eca0678a132b41010d1c1bbefae031c54f331f4681d09466c93004431a"
 metafile = true
 
 [[files]]
@@ -228,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "f99d68db548845d3e5cad75d714429ea73deaa5d41d8d3404af8ca4eb74f1457"
+metafile = true
+
+[[files]]
+file = "mods/just-mob-heads.pw.toml"
+hash = "a487d184ab03655f1771951662d3e7b869f55e76e94eadae29e4ceee3bfb8e40"
 metafile = true
 
 [[files]]
@@ -353,6 +373,16 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "c9dead395cd215c0040bf083ba556257b97cf99817854ebe6fa8f2413feb8f27"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
+metafile = true
+
+[[files]]
+file = "mods/server-replay.pw.toml"
+hash = "9b90b675027db585fa9a581d11f50c7ac84f602efb6c353361069f841fa0a7d9"
 metafile = true
 
 [[files]]
