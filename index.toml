@@ -16,13 +16,18 @@ hash = "71385a965a8391b709fc68784d7c7933eb837048cf0649d3a20a065258fe3e8c"
 metafile = true
 
 [[files]]
+file = "mods/animalpens.pw.toml"
+hash = "0e0976edbad95a1dcd46c9c8337fa5e76bbbb34c37a9466f551833aa97caebbd"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "39792a11da59cebc770f3918dd0ad53637bcbd206dc19bfa6709392bfd2d1830"
+hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
 
 [[files]]
@@ -61,6 +66,11 @@ hash = "17b40cfda4539840d350572bc5693a5984e862ecb58c2458f33822a074381bc4"
 metafile = true
 
 [[files]]
+file = "mods/calcmod.pw.toml"
+hash = "77c88fc2f3c4d3a17c329e83ac40ea091410fa1f0b5ba5d812beb8e9c30e26cb"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "1ba7fcf69deeec5536f8c9e43ee4527a5871e9e5805c1801b855e5c00b25d05a"
 metafile = true
@@ -73,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "812c45e6d4bb3e7fda349dc1562222b7df1933033665476d11b95e5d65a87a87"
+metafile = true
+
+[[files]]
+file = "mods/chunk-activity-tracker.pw.toml"
+hash = "6e64a5b57e83a0069f1700162767f9ba6c86adcce4db9f363f219e8e925858b3"
 metafile = true
 
 [[files]]
@@ -136,6 +151,11 @@ hash = "2bcdcf72c50d93ef010c8895ad1588baf9181612dcbdd05a2a870ff88bc34649"
 metafile = true
 
 [[files]]
+file = "mods/does-it-tick.pw.toml"
+hash = "38a9f5d91c8ff0eed8ee54c436308bfeb29012eb6701750b34f002d9b1750651"
+metafile = true
+
+[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "3b4237230c3529e8d4bb17755b68c4283e4f6e178e183a20e9256a474d56e832"
 metafile = true
@@ -173,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "d41804aff0c09612645047b2e53bfd88a018deaa7e4ad17d6656dd67e0af2a83"
+metafile = true
+
+[[files]]
+file = "mods/ephemeral-wither-skulls.pw.toml"
+hash = "bf9a1b97c6b790c2df8554d4cca8b89dcb077f1797c606f6116924e6f1e72037"
 metafile = true
 
 [[files]]
@@ -346,6 +371,11 @@ hash = "ab228cf647f11735db9cb3f81d09a2fa099346cc24b57210001eb31b770f66ec"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "09310a353a089bbae9a97e349331201f3f820b33551ded2851889d56bd035eff"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
@@ -358,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "c1cf218d3c9dbf16ec9b93ae536831fd17805def799eab72b9f79a9896f5999f"
+metafile = true
+
+[[files]]
+file = "mods/resource-trimmer.pw.toml"
+hash = "019a0a9ce5ed89f0df05842dbc05e52bd62580ccf41dcd37c5bb670534cc39c8"
 metafile = true
 
 [[files]]
@@ -418,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "6c05d12e439d7363fa189bcf9c86081fc5e9859f03fcfed0f32d4ca916f2c3c0"
 metafile = true
 
 [[files]]

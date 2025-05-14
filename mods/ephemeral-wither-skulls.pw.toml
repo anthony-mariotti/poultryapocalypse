@@ -1,0 +1,13 @@
+name = "Ephemeral Wither Skulls"
+filename = "EphemeralWitherSkulls-1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/7qjIcPze/versions/u5aHa9Oo/EphemeralWitherSkulls-1.1.jar"
+hash-format = "sha512"
+hash = "3e86423409c226f70f0953e4af8431215a916b53cb45da2685b5063ee264d931f01a1b4fcec8221275498ae3dab17c5f0e9f666754f6f70dadf3c46bfdbd513f"
+
+[update]
+[update.modrinth]
+mod-id = "7qjIcPze"
+version = "u5aHa9Oo"

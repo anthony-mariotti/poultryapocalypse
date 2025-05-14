@@ -1,0 +1,13 @@
+name = "Animal Pens"
+filename = "animal_pen-fabric-1.21-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K5CAV4wi/versions/kg9Z9lHq/animal_pen-fabric-1.21-1.4.2.jar"
+hash-format = "sha512"
+hash = "b6781afa6bf700ce0355142228be84186a9ca0b22f16e216d672d1aa59332abb66be04a2e41cd73f9c1100b6c1e34860e5876c617cececf0e63679aa93721363"
+
+[update]
+[update.modrinth]
+mod-id = "K5CAV4wi"
+version = "kg9Z9lHq"
