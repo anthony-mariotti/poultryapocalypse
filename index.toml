@@ -56,11 +56,6 @@ hash = "2b859636d3b9b5f2e2e9d18f2fed33a3cb1848dff5970057e819be67bf8472b4"
 metafile = true
 
 [[files]]
-file = "mods/blahaj_fabric.pw.toml"
-hash = "6ad56a9580061e6d287ba30806d62d5452caaff8cb0fb655748fbd0599017cc2"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "e3571ab81421bdc6d30b8de464156fce698ae72de775f33f4f32db0456160844"
 metafile = true
