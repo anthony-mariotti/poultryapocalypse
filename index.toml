@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/animal_pen_config.json"
+hash = "2097139f3bf9ebd0adec7b6897382f7face7b8aba5440d0571b10d6c1ee35702"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "7a753ad3aa3b7d586383884fb59cf8cf8c7a5ebbcf17f29478cd48c580cae542"
 metafile = true
