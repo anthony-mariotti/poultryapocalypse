@@ -465,6 +465,11 @@ hash = "9b90b675027db585fa9a581d11f50c7ac84f602efb6c353361069f841fa0a7d9"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "487495097475b59d277ee8268149f0dca03b725479521c3dd830a37163598c2e"
+metafile = true
+
+[[files]]
 file = "mods/small-ships.pw.toml"
 hash = "391cfcaddc727aca042186688aaa41bafa1666527a36499715e357432304bcf0"
 metafile = true
