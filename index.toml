@@ -35,11 +35,6 @@ hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
 
 [[files]]
-file = "mods/backpacked.pw.toml"
-hash = "d4a8ff22d18368ebdb06b2b406d1a1d2d20e1271a9f3104d445654b8522f1d65"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "418113be8ddd63987f3bbd7f4b4d93b291f1d1ee7664a365a05cc2981c5743c1"
 metafile = true
@@ -237,11 +232,6 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "f9d89c62265e675839395d925f4162e3e93fda837ed50fbe3832f4ae9c58bebb"
-metafile = true
-
-[[files]]
-file = "mods/framework.pw.toml"
-hash = "31fe856cfb4be0a169cd346540b5ba35c88107b19a15568a11112b38cebb2b62"
 metafile = true
 
 [[files]]
@@ -452,6 +442,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
+hash = "27274eec44c2752b04d4ae6d448a34176283d62b56cb5fc42114c34e81de2f67"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
+hash = "c150316d97a98a20fc59d6aaba4c6269a184a8e6e340b3383d5c23d718d283a4"
 metafile = true
 
 [[files]]
