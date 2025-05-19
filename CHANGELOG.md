@@ -18,6 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ServerCore](https://modrinth.com/mod/servercore) (client/server)
 - Changelog and ignoring it from the modpack export
 - Readme and ignoring it from the modpack export
+- Add ServerCore configuration
 
 ### Updated
 

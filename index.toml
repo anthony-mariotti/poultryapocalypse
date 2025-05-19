@@ -5,6 +5,14 @@ file = "config/animal_pen_config.json"
 hash = "2097139f3bf9ebd0adec7b6897382f7face7b8aba5440d0571b10d6c1ee35702"
 
 [[files]]
+file = "config/servercore/config.yml"
+hash = "0a966656041c23e755a59281c27cf52227915fd2d7d7d26ace912206406bc00b"
+
+[[files]]
+file = "config/servercore/optimizations.yml"
+hash = "f192ee6eadc75922796643808c9a9a53ad28ce944c08ba08754c486ca73619d5"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "7a753ad3aa3b7d586383884fb59cf8cf8c7a5ebbcf17f29478cd48c580cae542"
 metafile = true
