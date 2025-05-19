@@ -22,6 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Updated
 
 - Prickle `v21.1.6` → `v21.1.8`
+- ModernFix `v5.22.0` → `v5.23.0`
 
 ## [1.3.0] - 2025-05-19
 
