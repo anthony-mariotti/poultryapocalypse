@@ -16,7 +16,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [Macaw's Paths and Pavings](https://modrinth.com/mod/macaws-paths-and-pavings) (client/server)
 - [Macaw's Stairs](https://modrinth.com/mod/macaws-stairs) (client/server)
 - [ServerCore](https://modrinth.com/mod/servercore) (client/server)
-- [YDM's Weapon Master](https://modrinth.com/mod/weaponmaster) (client/server)
 - Changelog and ignoring it from the modpack export
 - Readme and ignoring it from the modpack export
 

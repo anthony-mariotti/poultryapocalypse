@@ -535,11 +535,6 @@ hash = "e8f55a1cdfc03e5f313a27db80e7427f28be997cb78224e666c8ea20a6693525"
 metafile = true
 
 [[files]]
-file = "mods/weaponmaster.pw.toml"
-hash = "ad7c323e246cf1977d8ae03cffa3f5ebfbffd735d0f76a13b8e8f8c05820ce82"
-metafile = true
-
-[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "bbe626ae5e123ad07ad82ac39b94bbe2f9c8fc13513f9907e01115ba0cd5b40f"
 metafile = true
