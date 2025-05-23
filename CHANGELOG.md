@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- BlockBreeze Music (client/server)
 - [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges) (client/server)
 - [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls) (client/server)
 - [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture) (client/server)

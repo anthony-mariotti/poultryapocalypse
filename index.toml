@@ -68,6 +68,10 @@ hash = "2b859636d3b9b5f2e2e9d18f2fed33a3cb1848dff5970057e819be67bf8472b4"
 metafile = true
 
 [[files]]
+file = "mods/blockbreeze-1.0.0+1.21.1.jar"
+hash = "067e02b079e87fb54d92a02094dc93da94fe890ef9ea1466933b4e3d9c915ec8"
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "e3571ab81421bdc6d30b8de464156fce698ae72de775f33f4f32db0456160844"
 metafile = true
