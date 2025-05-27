@@ -1,0 +1,194 @@
+# Modlist
+
+## Client
+
+- 3D Skin Layers
+- [EMF] Entity Model Features
+- [ETF] Entity Texture Features
+- Amendments
+- Animal Pens
+- AppleSkin
+- Architectury API
+- Balm
+- Better Ping Display [Fabric]
+- Better Statistics Screen
+- BetterF3
+- Biomes O' Plenty
+- BlockBreeze Music
+- Bookshelf
+- CalcMod
+- Carry On
+- Charm of Undying
+- Chat Heads
+- Chunky
+- Cloth Config API
+- Clumps
+- Collective
+- Concurrent Chunk Management Engine (Fabric)
+- Continuity
+- Controlling
+- CoroUtil
+- Cubes Without Borders
+- Dark Paintings
+- Diagonal Fences
+- Diagonal Walls
+- Diagonal Windows
+- Durability Tooltip
+- EMI
+- Emotecraft
+- Enchantment Descriptions
+- Entity Culling
+- Exposure
+- Fabric API
+- Fabric Language Kotlin
+- FerriteCore
+- Forge Config API Port
+- Fresh Animations
+- GlitchCore
+- Handcrafted
+- Inventory Essentials
+- Inventory Management
+- Iris Shaders
+- Jade 🔍
+- JamLib
+- Krypton
+- Lighty
+- Litematica
+- Lithium
+- Macaw's Bridges
+- Macaw's Doors
+- Macaw's Fences and Walls
+- Macaw's Furniture
+- Macaw's Lights and Lamps
+- Macaw's Paintings
+- Macaw's Paths and Pavings
+- Macaw's Roofs
+- Macaw's Trapdoors
+- Macaw's Windows
+- Macaws Stairs
+- MaLiLib
+- Mod Menu
+- ModernFix
+- Moonlight Lib
+- Mouse Tweaks
+- Open Parties and Claims
+- Packet Fixer
+- Ping Wheel
+- Plushie Mod
+- Prickle
+- Puzzles Lib
+- Resource Trimmer
+- Resourceful Lib
+- RightClickHarvest
+- ScalableLux
+- Searchables
+- ServerCore
+- Small Ships
+- Sodium
+- Sophisticated Backpacks (Unoffical Fabric port)
+- Sophisticated Core (Unofficial Fabric port)
+- spark
+- SuperMartijn642's Config Lib
+- TCDCommons API
+- TerraBlender
+- Text Placeholder API
+- Trinkets
+- TxniLib
+- Very Many Players (Fabric)
+- Wavey Capes
+- What Are They Up To (Watut)
+- Xaero's Minimap
+- Xaero's World Map
+- YetAnotherConfigLib (YACL)
+- Zoomify
+
+## Server
+
+- Alternate Current
+- Amendments
+- Animal Pens
+- AppleSkin
+- Architectury API
+- Balm
+- Better Statistics Screen
+- Biomes O' Plenty
+- BlockBreeze Music
+- Bookshelf
+- CalcMod
+- Carry On
+- Charm of Undying
+- Chunk Activity Tracker
+- Chunky
+- Cloth Config API
+- Clumps
+- Collective
+- Concurrent Chunk Management Engine (Fabric)
+- CoroUtil
+- Dark Paintings
+- Diagonal Fences
+- Diagonal Walls
+- Diagonal Windows
+- Does It Tick?
+- Double Doors
+- EMI
+- Emotecraft
+- Ephemeral Wither Skulls
+- Exposure
+- Fabric API
+- Fabric Language Kotlin
+- Fast Backups
+- FerriteCore
+- Forge Config API Port
+- GlitchCore
+- Handcrafted
+- Image2Map
+- Inventory Essentials
+- Inventory Management
+- Jade 🔍
+- JamLib
+- Just Mob Heads
+- Krypton
+- Ledger
+- Ledger Databases
+- Lithium
+- LuckPerms
+- Macaw's Bridges
+- Macaw's Doors
+- Macaw's Fences and Walls
+- Macaw's Furniture
+- Macaw's Lights and Lamps
+- Macaw's Paintings
+- Macaw's Paths and Pavings
+- Macaw's Roofs
+- Macaw's Trapdoors
+- Macaw's Windows
+- Macaws Stairs
+- ModernFix
+- Moonlight Lib
+- Noisium
+- Open Parties and Claims
+- Packet Fixer
+- Ping Wheel
+- Plushie Mod
+- Prickle
+- Puzzles Lib
+- Resource Trimmer
+- Resourceful Lib
+- RightClickHarvest
+- ScalableLux
+- ServerCore
+- ServerReplay
+- Small Ships
+- Sophisticated Backpacks (Unoffical Fabric port)
+- Sophisticated Core (Unofficial Fabric port)
+- spark
+- SuperMartijn642's Config Lib
+- TCDCommons API
+- TerraBlender
+- Text Placeholder API
+- Trinkets
+- TxniLib
+- Vanilla Permissions
+- Very Many Players (Fabric)
+- What Are They Up To (Watut)
+- YetAnotherConfigLib (YACL)
