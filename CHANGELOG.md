@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Updated
+
+- Balm `v21.0.44` → `v21.0.45`
+- Biomes O' Plenty `v21.1.0.9` → `v21.1.0.10`
+- BlockBreeze Music `v1.0.0` → `v1.1.0`
+- Bookshelf `v21.1.62` → `v21.1.63`
+- Exposure `v1.9.2` → `v1.9.6`
+- Sophisticated Core (Unofficial Fabric port) `v1.2.9.3.145` → `v1.2.9.8.148`
+- Vanilla Permissions `v0.2.6` → `v0.2.8`
+
 ## [1.4.0] - 2025-05-22
 
 ### Added

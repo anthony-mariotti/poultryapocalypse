@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "418113be8ddd63987f3bbd7f4b4d93b291f1d1ee7664a365a05cc2981c5743c1"
+hash = "8ca1f3659495dcfb10a353ec80f1e6dd9f273c8763260d11b56df181f3fc86d9"
 metafile = true
 
 [[files]]
@@ -64,16 +64,16 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "2b859636d3b9b5f2e2e9d18f2fed33a3cb1848dff5970057e819be67bf8472b4"
+hash = "658dc1900de7489b316d9d750b8be1aa5e2d91f273fb0af8fa7fd4cd1acb45d2"
 metafile = true
 
 [[files]]
-file = "mods/blockbreeze-1.0.0+1.21.1.jar"
-hash = "067e02b079e87fb54d92a02094dc93da94fe890ef9ea1466933b4e3d9c915ec8"
+file = "mods/blockbreeze-1.1.0+1.21.1.jar"
+hash = "a8e38290af50a0bc077e66d79343f0a784e6ddd7141d0c2a5d79d3ad52bab2a1"
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "e3571ab81421bdc6d30b8de464156fce698ae72de775f33f4f32db0456160844"
+hash = "447935532654ca7a3ede4063190ddf895f2343fea893aad6dad25591e9848a60"
 metafile = true
 
 [[files]]
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "f8813d9ca24d1bbcdb5221d501d512628066140bcfd18e7341c8cb4ee0135d4f"
+hash = "83fac5696e19a959aa9dcb20e7670937bc1c0e02daa0f3c330336a2e10121339"
 metafile = true
 
 [[files]]
@@ -498,7 +498,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
-hash = "c150316d97a98a20fc59d6aaba4c6269a184a8e6e340b3383d5c23d718d283a4"
+hash = "a81bafed0b1d674e8157c3713510949a18bbc30f8642aae7e42eaa4dfb4dd9ae"
 metafile = true
 
 [[files]]
@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanilla-permissions.pw.toml"
-hash = "d0555b0b2b4f48ebfa5e7ce4776a77fe1232f9d2dc306208211e436cf3674e23"
+hash = "414272eab61c94154aeaf57d0a0aa46376fb5bd585c7af72a1ca106b5a3097b9"
 metafile = true
 
 [[files]]
